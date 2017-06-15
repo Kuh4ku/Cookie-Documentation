@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Cookie Bot](README.md)
 
 ## Méthodes
 
