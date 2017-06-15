@@ -1,0 +1,231 @@
+﻿1 - Frêne
+8 - Chêne
+17 - Fer
+24 - Argent
+25 - Or
+26 - Pierre de Bauxite
+28 - If
+29 - Ebène
+30 - Orme
+31 - Erable
+32 - Charme
+33 - Châtaignier
+34 - Noyer
+35 - Merisier
+37 - Pierre de Kobalte
+38 - Blé
+39 - Houblon
+42 - Lin
+43 - Orge
+44 - Seigle
+45 - Avoine
+46 - Chanvre
+47 - Malt
+48 - Tas de patates
+52 - Etain
+53 - Pierre Cuivrée
+54 - Manganèse
+55 - Bronze
+61 - Edelweiss
+63 - Froment
+64 - Epeautre
+65 - Sorgho
+66 - Menthe Sauvage
+67 - Trèfle à 5 feuilles
+68 - Orchidée Freyesque
+71 - Greuvette
+72 - Somoon Agressif
+73 - Pwoulpe
+74 - Truite
+75 - Goujon
+76 - Poisson-Chaton
+77 - Crabe
+78 - Poisson Pané
+79 - Carpe d'Iem
+80 - Truite Vaseuse
+81 - Sardine Brillante
+82 - Coton
+84 - Puits
+98 - Bombu
+99 - Ombre étrange
+100 - Pichon
+101 - Oliviolet
+102 - Machine de force
+104 - Koinkoin
+108 - Bambou
+109 - Bambou sombre
+110 - Bambou sacré
+111 - Riz
+112 - Pandouille
+113 - Dolomite
+114 - Silicate
+121 - Kaliptus
+131 - Perce-neige
+132 - Poisskaille
+133 - Tremble
+134 - Frostiz
+135 - Obsidienne
+136 - Coquillage
+137 - Machine à coudre de Poss'Ybel
+138 - Fabrique
+139 - Table de cuisine de mauvaise qualité
+140 - Atelier de mauvaise qualité
+141 - Établi de mauvaise qualité
+142 - Machine à coudre de mauvaise qualité
+143 - Machine à jouets
+144 - Pressoir à poisson
+145 - Atelier d'Emballage
+146 - Paquet Cadeau
+147 - Atelier d'emballage de cadeaux
+148 - Atelier des alchimistes
+149 - Atelier des bijoutiers
+150 - Atelier des bouchers
+151 - Atelier des bouchers et chasseurs
+152 - Atelier des boucliers
+153 - Atelier des boulangers
+154 - Atelier des bricoleurs
+155 - Atelier des bûcherons
+156 - Atelier des chasseurs
+157 - Atelier des cordonniers
+158 - Atelier des forgemages
+159 - Atelier des forgerons
+160 - Atelier des mineurs
+161 - Atelier des paysans
+162 - Atelier des poissonniers
+163 - Atelier des poissonniers et pêcheurs
+164 - Atelier des pêcheurs
+165 - Atelier des sculpteurs
+166 - Atelier des tailleurs
+167 - Arène
+168 - Banque
+169 - Bar Akouda
+170 - Bibliothèque
+171 - Boutiques de Nowel
+172 - Dojo
+173 - Église
+174 - Épicerie
+175 - Fabricant de skis
+176 - Hôtel de ville
+177 - Hôtel des métiers
+178 - Kanojedo
+179 - Kolizéum
+180 - Milice
+181 - Médecin de Frigost
+182 - Taverne
+183 - Taverne Alakarte
+184 - Taverne Atolmond
+185 - Taverne d'Argent
+186 - Taverne de Djaul
+187 - Taverne de la Bagrutte
+188 - Taverne de la Chopenbois
+189 - Taverne de la Misère
+190 - Taverne de la Tabasse
+191 - Taverne de Lisa Kaya
+192 - Taverne de Sakaï
+193 - Taverne du Bwork
+194 - Taverne du Chabrulé
+195 - Taverne du Dernier Refuge
+196 - Taverne du Ferayeur
+197 - Taverne du Feubuk
+198 - Taverne du Pandawa Ivre
+199 - Taverne du Paradis Frigostien
+200 - Taverne du Pinchaut
+201 - Taverne du Ripate
+202 - Temple des guildes
+203 - Tour de Brâkmar
+204 - Tour des archives
+205 - Tour des ordres
+206 - Sous-marin Steamer
+207 - Autel
+208 - Krosmaster
+209 - Atelier d'Isidor Fèvre
+210 - Atelier d'Al Shab
+211 - Atelier de Frigostine
+212 - Atelier de Francky
+213 - Atelier de Dutch
+214 - Atelier de Brokkeitri
+215 - Atelier de Laurent Part
+216 - Atelier de Clarisse Tosha
+217 - Atelier d'Annette Daimpeau
+218 - Atelier de Carla Garfield
+219 - Métier d'Avenir
+220 - Tonneau d'explosifs
+221 - Fleur de Sutol
+222 - Barbecue
+223 - Cawotte fraîche
+224 - Alambic patiné de l'hôtel des métiers
+225 - Bouteille de Rhum
+226 - Ascenseur
+227 - Champignon
+228 - Table de Bowisse
+229 - Atelier de Mériana
+230 - Portail des Bworks
+231 - Distributeur de missions
+232 - Portail
+233 - Coffre en or
+234 - Glaçon
+235 - Aller vers
+236 - Pupitre
+237 - Table de planification
+238 - Aller vers l'instance A
+239 - Aller vers l'instance B
+240 - Aller vers l'instance C
+241 - Vieux Coffre XXIII
+242 - Etabli d'horloger
+243 - Coffre XI
+244 - Coffre XXIII
+245 - Coffre XXXI
+246 - Coffre LIX
+247 - Horloge en avance de 2 minutes
+248 - Horloge en retard de 3 minutes
+249 - Horloge en avance de 7 minutes
+250 - Horloge en retard de 8 minutes
+251 - Œufs de Tempax
+252 - Atelier des Voyageurs
+253 - Portail Eliotrope
+254 - Ortie
+255 - Sauge
+256 - Ginseng
+257 - Belladone
+258 - Mandragore
+259 - Noisetier
+260 - Maïs
+261 - Millet
+262 - Bloc de pierre
+263 - Brochet
+264 - Kralamoure
+265 - Anguille
+266 - Dorade Grise
+267 - Perche
+268 - Raie
+269 - Lotte
+270 - Requin Marteau-Faucille
+271 - Bar Rikain
+272 - Morue
+273 - Tanche
+274 - Espadon
+275 - Enclume de Mulic Bere
+276 - Établi de Mulic Bere
+277 - Atelier de Mulic Bere
+278 - Assembleur de Mulic Bere
+279 - Atelier du Mage Ax
+280 - Plate-forme Huppermage
+281 - Trèfle à 4 feuilles
+282 - Indiquer une sortie
+283 - Chathon
+284 - Escalier
+285 - Porte blindée
+286 - Atelier indicible
+287 - Aquajou
+288 - Salikrone
+289 - Quisnoa
+290 - Patelle
+291 - Écume de mer
+292 - Table de Travail
+293 - Écume de mer
+294 - Aquajou
+295 - Salikrone
+296 - Quisnoa
+297 - Patelle
+298 - Atelier de Natacha Manka
+299 - Œufs frais
