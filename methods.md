@@ -14,7 +14,7 @@ git clone https://github.com/yovanoc/Cookie.git
 
 
 {% method %}
-## Compilation
+# Compilation
 
 Une fois le projet ouvert dans **Visual Studio** il faudra changer **trois **variables.
 
