@@ -4,6 +4,8 @@
 
 * [My Awesome API](README.md)
 
-## Methods
+## Méthodes
 
-* [Defining Methods](methods.md)
+* [1. Installations ](methods.md)
+* [2. Listes des ID](listes-des-id.md)
+

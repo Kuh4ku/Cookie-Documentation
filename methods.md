@@ -1,30 +1,32 @@
-# Defining Methods
+# Cloner le GitHub
 
-Methods allow you to smoothly display code examples in different languages.
+Il vous faudra tout d'abords une copie du projet.
+
+Soit télécharger le ici:
+
+ [Cookie GitHub](https://github.com/yovanoc/Cookie)
+
+Soit cloner le projet avec Git:
+
+```batch
+git clone https://github.com/yovanoc/Cookie.git
+```
+
 
 {% method %}
-## My first method
+## Compilation
 
-My first method exposes how to print a message in JavaScript and Go.
+Une fois le projet ouvert dans **Visual Studio** il faudra changer **trois **variables.
 
-{% sample lang="js" %}
-Here is how to print a message to `stdout` using JavaScript.
-
-```js
-console.log('My first method');
+**MainForm.cs**
+```csharp
+var DofusPath = @"C:\Users\NOM D'UTILISATEUR\AppData\Local\Ankama\Dofus";
+var AccountName = "NomDeCompte";
+var AccountPassword = "MotDePasse";
 ```
 
-{% sample lang="go" %}
-Here is how to print a message to `stdout` using Go.
+Après il vous suffit de build le projet ou de Debug et tout est bon!
 
-```go
-fmt.Println("My first method")
-```
+![](/assets/af7e7a14a1.png)
 
-{% common %}
-Whatever language you are using, the result will be the same.
-
-```bash
-$ My first method
-```
 {% endmethod %}

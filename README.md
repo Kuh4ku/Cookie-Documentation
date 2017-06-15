@@ -1,3 +1,20 @@
-# My Awesome API
+# ![](/assets/cookie.png)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# Cookie Bot
+
+Cookie Bot est un bot Dofus codé en C\# et OpenSource.
+
+---
+
+**Créateur:** [yovanoc](https://github.com/yovanoc)
+
+**GitHub:** [https://github.com/yovanoc/Cookie](https://github.com/yovanoc/Cookie)
+
+**GitBook:**
+
+**Forum:** [https://forum.cookie-project.com/](https://forum.cookie-project.com/)
+
+---
+
+**Auteur: **The Falcon
+

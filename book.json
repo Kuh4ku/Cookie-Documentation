@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": ["-highlight", "sunlight-highlighter"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
