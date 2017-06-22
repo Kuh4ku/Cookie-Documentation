@@ -6,10 +6,9 @@ Toujours pratique pour trouver un objet rapidement!
 
 * <a href="Files/IDS/objets.txt" target="_blank">Files/IDS/objets.txt</a>
 * <a href="Files/IDS/metiers.txt" target="_blank">Files/IDS/metiers.txt</a>
-* <a href="Files/IDS/objets.txt" target="_blank">Files/IDS/objets.txt</a>
-* <a href="Files/IDS/objets.txt" target="_blank">Files/IDS/objets.txt</a>
+* <a href="Files/IDS/monstres.txt" target="_blank">Files/IDS/monstres.txt</a>
+* <a href="Files/IDS/ressources.txt" target="_blank">Files/IDS/ressources.txt</a>
 
-* [](/Files/IDS/metiers.txt "Metiers.txt")
 * [Files/IDS/monstres.txt](/Files/IDS/monstres.txt "Monstres.txt")
 * [Files/IDS/ressources.txt](/Files/IDS/ressources.txt "Ressources.txt")
 
