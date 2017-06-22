@@ -4,7 +4,7 @@ Ceci est une liste des ID des objets, metiers, monstres, ressources.
 
 Toujours pratique pour trouver un objet rapidement!
 
-* [Files/IDS/objets.txt](/Files/IDS/objets.txt "Objets.txt")
+* <a href="Files/IDS/objets.txt" target="_blank">Files/IDS/objets.txt</a>
 * [Files/IDS/metiers.txt](/Files/IDS/metiers.txt "Metiers.txt")
 * [Files/IDS/monstres.txt](/Files/IDS/monstres.txt "Monstres.txt")
 * [Files/IDS/ressources.txt](/Files/IDS/ressources.txt "Ressources.txt")
