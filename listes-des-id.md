@@ -9,9 +9,6 @@ Toujours pratique pour trouver un objet rapidement!
 * <a href="Files/IDS/monstres.txt" target="_blank">Files/IDS/monstres.txt</a>
 * <a href="Files/IDS/ressources.txt" target="_blank">Files/IDS/ressources.txt</a>
 
-* [Files/IDS/monstres.txt](/Files/IDS/monstres.txt "Monstres.txt")
-* [Files/IDS/ressources.txt](/Files/IDS/ressources.txt "Ressources.txt")
-
 
 
 # Exemple de fichier:
