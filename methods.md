@@ -15,9 +15,9 @@ git clone https://github.com/yovanoc/Cookie.git
 
 # Compilation
 
-Une fois le projet installé dans le même dossier que **Cookie.exe** il faudra créer le fichier: 
-- **dofuspath.txt**
-- **account.txt**
+Une fois le projet installé dans le même dossier que **Cookie.exe** il faudra créer un dossier **config** le fichier: 
+- **config/dofuspath.txt**
+- **config/account.txt**
 
 Avec le contenue suivant:
 - Chemin du dossier dofus
