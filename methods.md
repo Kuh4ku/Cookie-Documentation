@@ -15,13 +15,24 @@ git clone https://github.com/yovanoc/Cookie.git
 
 # Compilation
 
-Une fois le projet ouvert dans **Visual Studio** il faudra changer **trois **variables.
+Une fois le projet installé dans le même dossier que **Cookie.exe** il faudra créer le fichier: 
+- **dofuspath.txt**
+- **account.txt**
 
-**MainForm.cs**
-```csharp
-var DofusPath = @"C:\Users\NOM D'UTILISATEUR\AppData\Local\Ankama\Dofus";
-var AccountName = "NomDeCompte";
-var AccountPassword = "MotDePasse";
+Avec le contenue suivant:
+- Chemin du dossier dofus
+- Nom de compte et mot de passe
+
+**dofuspath.txt**
+
+```
+C:\Users\NOM D'UTILISATEUR\AppData\Local\Ankama\Dofus
+```
+
+**account.txt**
+
+```
+NomDeCompte:MotDePasse
 ```
 
 Après il vous suffit de build le projet ou de Debug et tout est bon!
