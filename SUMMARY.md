@@ -3,7 +3,6 @@
 ## Overview
 
 * [Cookie Bot](README.md)
-* 1. Introduction Data Files
 
 ## Méthodes
 
@@ -11,6 +10,8 @@
 * [2. Listes des ID](listes-des-id.md)
 
 ## Data Files
+
+* [Introduction Data Files](data-files/introduction-data-files.md)
 
 ## Sockets
 
