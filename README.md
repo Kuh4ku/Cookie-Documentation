@@ -24,5 +24,5 @@ Cookie Bot est un bot Dofus codé en C\# et OpenSource.
 
 ---
 
-**Auteur:** The Falcon (Alias [] sur Discord)
+**Auteur:** The Falcon \(Alias **\[\]** sur Discord\)
 
