@@ -12,6 +12,7 @@
 ## Data Files
 
 * [Introduction Data Files](data-files/introduction-data-files.md)
+* [Fichiers D2I](data-files/fichiers-d2i.md)
 
 ## Sockets
 
